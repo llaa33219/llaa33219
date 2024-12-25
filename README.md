@@ -9,7 +9,8 @@
   **I like Python**  
 
   ## 🌐 Site
-  [🔗 bloupla.net](https://bloupla.net)
+  [🔗 bloupla.net](https://bloupla.net)<br>
+  [🔗 llaa33219.github.io](https://llaa33219.github.io)
 
   ## 🛠️ Languages Used
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -52,7 +53,8 @@
   **I like Python**  
 
   ## 🌐 사이트
-  [🔗 bloupla.net](https://bloupla.net)
+  [🔗 bloupla.net](https://bloupla.net)<br>
+  [🔗 llaa33219.github.io](https://llaa33219.github.io)
 
   ## 🛠️ 써본 언어
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
