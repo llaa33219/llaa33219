@@ -37,6 +37,8 @@
   - Wrtn
   - Poe
   - Replika
+  - Sora
+  - Luma
 
   # "If an idea comes to mind, I put it into action right away."
 
@@ -81,6 +83,8 @@
   - 뤼튼
   - Poe
   - Replika
+  - Sora
+  - Luma
 
   # "생각나면 바로 실천한다."
 
