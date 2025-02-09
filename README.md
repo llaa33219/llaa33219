@@ -10,7 +10,7 @@
 
   ## 🌐 Site
   [🔗 bloupla.net](https://bloupla.net)<br>
-  [🔗 github.bloupla.net](https://github.bloupla.net)
+  [🔗 dev.bloupla.net](https://dev.bloupla.net)
 
   ## 🛠️ Languages Used
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -56,7 +56,7 @@
 
   ## 🌐 사이트
   [🔗 bloupla.net](https://bloupla.net)<br>
-  [🔗 github.bloupla.net](https://github.bloupla.net)
+  [🔗 dev.bloupla.net](https://dev.bloupla.net)
 
   ## 🛠️ 써본 언어
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
