@@ -39,6 +39,7 @@
   - Replika
   - Sora
   - Luma
+  - Qwen
 
   # "If an idea comes to mind, I put it into action right away."
 
@@ -80,11 +81,12 @@
   - Claude
   - Suno
   - XiaoAI
-  - 뤼튼
+  - Wrtn
   - Poe
   - Replika
   - Sora
   - Luma
+  - Qwen
 
   # "생각나면 바로 실천한다."
 
