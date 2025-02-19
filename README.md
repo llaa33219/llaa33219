@@ -28,7 +28,7 @@
   ## ✔️ AI I've Used
   - ChatGPT
   - DeepSeek
-  - Filmora AI
+  - github copilot
   - gemini
   - copilot
   - Claude
@@ -40,6 +40,7 @@
   - Sora
   - Luma
   - Qwen
+  - grok
 
   # "If an idea comes to mind, I put it into action right away."
 
@@ -75,7 +76,7 @@
   ## ✔️ 써본 AI
   - ChatGPT
   - DeepSeek
-  - Filmora AI
+  - github copilot
   - gemini
   - copilot
   - Claude
@@ -87,6 +88,7 @@
   - Sora
   - Luma
   - Qwen
+  - grok
 
   # "생각나면 바로 실천한다."
 
