@@ -41,6 +41,9 @@
   - Luma
   - Qwen
   - grok
+  - sora
+  - dall-e
+  - manus
 
   # "If an idea comes to mind, I put it into action right away."
 
@@ -89,6 +92,9 @@
   - Luma
   - Qwen
   - grok
+  - sora
+  - dall-e
+  - manus
 
   # "생각나면 바로 실천한다."
 
