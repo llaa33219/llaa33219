@@ -44,6 +44,7 @@
   - sora
   - dall-e
   - manus
+  - perplexity
 
   # "If an idea comes to mind, I put it into action right away."
 
@@ -95,6 +96,7 @@
   - sora
   - dall-e
   - manus
+  - perplexity
 
   # "생각나면 바로 실천한다."
 
