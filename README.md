@@ -1,9 +1,4 @@
-<!-- --------------------------------------------------------------------- -->
-<!-- 1) 영어 버전 (기본으로 열려있음) -->
-<details open>
-  <summary>English Version</summary>
-  
-  # Haha! 👋
+# Haha! 👋
   
   **Amazing Person**  
   **I like Python**  
