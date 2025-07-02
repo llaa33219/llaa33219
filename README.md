@@ -21,7 +21,6 @@
   ## 💡 Interests
   - Web Development
   - Python Development
-  - Block Coding
   - Latest AI
 
   ## ✔️ AI I've Used
