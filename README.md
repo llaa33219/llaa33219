@@ -28,7 +28,6 @@
   - Suno
   - XiaoAI
   - Wrtn
-  - Poe
   - Replika
   - Sora
   - Luma
