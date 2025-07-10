@@ -34,7 +34,6 @@
   - Luma
   - Qwen
   - grok
-  - sora
   - dall-e
   - manus
   - perplexity
