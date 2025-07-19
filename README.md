@@ -72,5 +72,9 @@
 - Dedian
 - Voidlinux
 - Opensuse
+- Bilss OS
+- Chrome OS Flex
+- Fyde OS
+- Pop!_OS
 
 # "If an idea comes to mind, I put it into action right away."
