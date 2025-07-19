@@ -41,14 +41,15 @@
 - Hunyuan  
 - Wan  
 - Kimi  
-- Veo  
+- Veo
+- replit
 
 ## 🧠 AI Tools I've Used  
-- copilot in vscode
-- cursor
-- claude code
+- Copilot extension for VS Code
+- Cursor
+- Claude Code
 - firebase studio
-- 
+- Claude desktop
 
 ## 💻 OS I've Used  
 - Arch Linux  
