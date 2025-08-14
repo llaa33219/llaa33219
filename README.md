@@ -74,5 +74,7 @@
 - OpenKylin
 - PearOS
 - Elementary OS
+- OpenSUSE
+- EndeavourOS
 
 # "If an idea comes to mind, I put it into action right away."
