@@ -76,5 +76,6 @@
 - Elementary OS
 - OpenSUSE
 - EndeavourOS
+- AerynOS
 
 # "If an idea comes to mind, I put it into action right away."
