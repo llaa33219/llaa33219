@@ -44,6 +44,7 @@
 - Claude Code
 - firebase studio
 - Claude desktop
+- Qwen Code
 
 ## 💻 OS I've Used  
 - Arch Linux  
@@ -62,7 +63,6 @@
 - Windows  
 - Android(ASOP)
 - HyperOS
-- Windows
 - Dedian
 - Voidlinux
 - Opensuse
@@ -70,5 +70,9 @@
 - Chrome OS Flex
 - Fyde OS
 - Pop!_OS
+- Deepin
+- OpenKylin
+- PearOS
+- Elementary OS
 
 # "If an idea comes to mind, I put it into action right away."
