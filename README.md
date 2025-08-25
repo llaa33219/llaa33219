@@ -38,7 +38,6 @@
 - Veo
 - replit
 - GLM
-- Hunyuan
 - Hunyuan3D
 
 ## 🧠 AI Tools I've Used  
