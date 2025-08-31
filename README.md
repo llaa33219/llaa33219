@@ -40,6 +40,8 @@
 - replit
 - GLM
 - Hunyuan3D
+- google imagen
+- gemini image
 
 ## 🧠 AI Tools I've Used  
 - Copilot extension for VS Code
