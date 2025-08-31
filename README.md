@@ -1,7 +1,8 @@
 # Haha! 👋
   
 **Amazing Person**  
-**I like Python**  
+**I like Python**
+**I started vibe coding since GPT-3.5**
 
 ## 🌐 Site  
 [🔗 bloupla.net](https://bloupla.net)<br>  
