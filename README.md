@@ -82,5 +82,6 @@
 - OpenSUSE
 - EndeavourOS
 - AerynOS
+- Nobara linux
 
 # "If an idea comes to mind, I put it into action right away."
