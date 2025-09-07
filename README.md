@@ -83,5 +83,6 @@
 - EndeavourOS
 - AerynOS
 - Nobara linux
+- Prime OS
 
 # "If an idea comes to mind, I put it into action right away."
