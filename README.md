@@ -85,6 +85,7 @@
 - Nobara linux
 - Prime OS
 - GhostBSD
+- Proxmox VE
 
 # ⚙️ DE/WM I've Used
 - gnome
