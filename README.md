@@ -86,6 +86,8 @@
 - Prime OS
 - GhostBSD
 - Proxmox VE
+- ColorOS
+- Funtouch OS
 
 # ⚙️ DE/WM I've Used
 - gnome
