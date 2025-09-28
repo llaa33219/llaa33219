@@ -42,6 +42,7 @@
 - Hunyuan3D
 - google imagen
 - nano-banana
+- lemon ai
 
 ## 🧠 AI Tools I've Used  
 - Copilot extension for VS Code
