@@ -89,6 +89,7 @@
 - Proxmox VE
 - ColorOS
 - Funtouch OS
+- Manjaro
 
 # ⚙️ DE/WM I've Used
 - gnome
