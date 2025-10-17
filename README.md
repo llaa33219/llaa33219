@@ -51,6 +51,7 @@
 - firebase studio
 - Claude desktop
 - Qwen Code
+- qoder cli
 
 ## 💻 OS I've Used  
 - Arch Linux  
