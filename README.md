@@ -6,7 +6,7 @@
 
 ## 🌐 Site  
 [🔗 bloupla.net](https://bloupla.net)<br>  
-[🔗 dev.bloupla.net](https://dev.bloupla.net)
+[🔗 kr.bloupla.net](https://kr.bloupla.net)
 
 ## 💡 Interests  
 - Web Development  
