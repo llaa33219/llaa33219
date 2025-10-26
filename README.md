@@ -91,6 +91,7 @@
 - ColorOS
 - Funtouch OS
 - Manjaro
+- GeckoLinux
 
 # ⚙️ DE/WM I've Used
 - gnome
