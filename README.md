@@ -52,6 +52,8 @@
 - Claude desktop
 - Qwen Code
 - qoder cli
+- trea plugin
+- codebuff
 
 ## 💻 OS I've Used  
 - Arch Linux  
