@@ -54,6 +54,8 @@
 - qoder cli
 - trea plugin
 - codebuff
+- kiro ide
+- google antigravity
 
 ## 💻 OS I've Used  
 - Arch Linux  
@@ -107,5 +109,6 @@
 - enlightenment
 - dde
 - i3
+- niri
 
 # "If an idea comes to mind, I put it into action right away."
