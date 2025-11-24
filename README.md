@@ -1,6 +1,6 @@
 # Haha! 👋
   
-**Amazing Person**  
+**I'm Amazing Person**  
 **I like Python**  
 **I started vibe coding since GPT-3.5**
 
