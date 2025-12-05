@@ -96,6 +96,7 @@
 - Funtouch OS
 - Manjaro
 - GeckoLinux
+- Regata os
 
 # ⚙️ DE/WM I've Used
 - gnome
