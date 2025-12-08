@@ -43,6 +43,7 @@
 - google imagen
 - nano-banana
 - lemon ai
+- z-image
 
 ## 🧠 AI Tools I've Used  
 - Copilot extension for VS Code
