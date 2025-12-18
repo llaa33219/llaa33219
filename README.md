@@ -11,7 +11,8 @@
 ## 💡 Interests  
 - Web Development  
 - Python Development  
-- Latest AI  
+- Latest AI
+- Linux Distro
 
 ## ✔️ AI I've Used  
 - ChatGPT  
