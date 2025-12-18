@@ -98,6 +98,7 @@
 - Manjaro
 - GeckoLinux
 - Regata os
+- ShaniOS
 
 # ⚙️ DE/WM I've Used
 - gnome
