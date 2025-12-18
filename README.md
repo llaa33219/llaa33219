@@ -57,6 +57,7 @@
 - codebuff
 - kiro ide
 - google antigravity
+- qoder
 
 ## 💻 OS I've Used  
 - Arch Linux  
