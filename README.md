@@ -45,6 +45,9 @@
 - nano-banana
 - lemon ai
 - z-image
+- Meshy
+- Hyper3D
+- TRELLIS
 
 ## 🧠 AI Tools I've Used  
 - Copilot extension for VS Code
