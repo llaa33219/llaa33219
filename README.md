@@ -17,7 +17,6 @@
 ## ✔️ AI I've Used  
 - ChatGPT  
 - DeepSeek  
-- GitHub Copilot  
 - Gemini  
 - Claude  
 - Copilot  
@@ -48,6 +47,7 @@
 - Meshy
 - Hyper3D
 - TRELLIS
+- Tripo
 
 ## 🧠 AI Tools I've Used  
 - Copilot extension for VS Code
