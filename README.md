@@ -48,6 +48,7 @@
 - Hyper3D
 - TRELLIS
 - Tripo
+- minimax
 
 ## 🧠 AI Tools I've Used  
 - Copilot extension for VS Code
