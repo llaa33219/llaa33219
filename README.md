@@ -79,7 +79,7 @@
 - OpenMandriva  
 - Windows  
 - Android(ASOP)
-- HyperOS
+- HyperOS (xiaomi)
 - Dedian
 - Voidlinux
 - Opensuse
@@ -98,12 +98,13 @@
 - Prime OS
 - GhostBSD
 - Proxmox VE
-- ColorOS
-- Funtouch OS
+- ColorOS (oppo)
+- Funtouch OS (vivo)
 - Manjaro
 - GeckoLinux
 - Regata os
 - ShaniOS
+- OXO OS (iiif150)
 
 # ⚙️ DE/WM I've Used
 - gnome
