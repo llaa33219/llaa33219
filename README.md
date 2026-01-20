@@ -62,6 +62,7 @@
 - kiro ide
 - google antigravity
 - qoder
+- opencode(+oh my opencode)
 
 ## 💻 OS I've Used  
 - Arch Linux  
