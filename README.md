@@ -49,6 +49,7 @@
 - TRELLIS
 - Tripo
 - minimax
+- LFM
 
 ## 🧠 AI Tools I've Used  
 - Copilot extension for VS Code
