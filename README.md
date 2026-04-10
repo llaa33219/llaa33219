@@ -9,7 +9,7 @@
 [🔗 bloupla.net](https://bloupla.net)
 
 ## 👀 What's on my radar
- - https://www.liquid.ai/
+ - https://huggingface.co/prism-ml
  - SNN SpikingGamma
  - https://huggingface.co/circlestone-labs/Anima
  - https://github.com/shitagaki-lab/see-through
