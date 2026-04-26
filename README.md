@@ -2,7 +2,7 @@
   
 **I'm Amazing Person**  
 **I like Python**  
-**I like Linux**
+**I like Linux**  
 **I started vibe coding since GPT-3.5**
 
 ## 🌐 Site  
