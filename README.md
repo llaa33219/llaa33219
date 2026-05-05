@@ -13,5 +13,4 @@
  - SNN SpikingGamma
  - https://github.com/shitagaki-lab/see-through
  - https://genode.org/
- - https://www.redox-os.org/
- - https://reactos.org/
+ - https://github.com/heygen-com/hyperframes
