@@ -11,6 +11,6 @@
 ## 👀 What's on my radar
  - https://huggingface.co/prism-ml
  - SNN SpikingGamma
- - https://github.com/shitagaki-lab/see-through
  - https://genode.org/
  - https://github.com/heygen-com/hyperframes
+ - https://huggingface.co/z-lab
