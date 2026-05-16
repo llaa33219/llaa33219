@@ -10,7 +10,7 @@
 
 ## 👀 What's on my radar
  - https://huggingface.co/prism-ml
- - SNN SpikingGamma
+ - https://tenstorrent.com/
  - https://huggingface.co/openbmb/MiniCPM-V-4.6
  - https://github.com/heygen-com/hyperframes
  - https://huggingface.co/z-lab
