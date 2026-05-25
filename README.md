@@ -11,6 +11,6 @@
 ## 👀 What's on my radar
  - https://huggingface.co/prism-ml
  - https://tenstorrent.com/
- - https://huggingface.co/openbmb/MiniCPM-V-4.6
+ - https://huggingface.co/openbmb
  - https://github.com/heygen-com/hyperframes
  - https://huggingface.co/z-lab
