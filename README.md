@@ -12,5 +12,5 @@
  - https://huggingface.co/prism-ml
  - https://tenstorrent.com/
  - https://huggingface.co/openbmb
- - https://github.com/heygen-com/hyperframes
+ - pNLP-Mixer
  - https://huggingface.co/z-lab
