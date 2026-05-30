@@ -14,3 +14,4 @@
  - https://huggingface.co/openbmb
  - pNLP-Mixer
  - https://huggingface.co/z-lab
+ - https://rux-lang.dev/
