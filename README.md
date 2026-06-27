@@ -9,9 +9,9 @@
 [🔗 bloupla.net](https://bloupla.net)
 
 ## 👀 What's on my radar
- - https://huggingface.co/prism-ml
+ - https://furiosa.ai/
  - https://tenstorrent.com/
- - https://huggingface.co/openbmb
- - pNLP-Mixer
+ - https://huggingface.co/krea/Krea-2-Turbo
+ - LCP-Mixer
  - https://huggingface.co/z-lab
  - https://rux-lang.dev/
