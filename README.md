@@ -10,8 +10,8 @@
 
 ## 👀 What's on my radar
  - https://furiosa.ai/
- - https://tenstorrent.com/
+ - https://distill.pub/2020/growing-ca/
  - https://huggingface.co/krea/Krea-2-Turbo
  - LCP-Mixer
- - https://huggingface.co/z-lab
+ - https://huggingface.co/Glint-Research
  - https://rux-lang.dev/
