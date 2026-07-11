@@ -10,8 +10,8 @@
 
 ## 👀 What's on my radar
  - https://furiosa.ai/
- - https://huggingface.co/NewBie-AI/NewBie-image-Exp0.1 👀👀👀
+ - https://huggingface.co/NewBie-AI/NewBie-image-Exp0.1
  - https://huggingface.co/bottlecapai
- - https://huggingface.co/datasets/LiquidAI/antidoom-mix-v1.0 <- 👍👍👍
+ - https://huggingface.co/datasets/LiquidAI/antidoom-mix-v1.0
  - https://huggingface.co/Glint-Research
- - https://rux-lang.dev/
+ - https://huggingface.co/SupraLabs
