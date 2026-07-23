@@ -1,7 +1,7 @@
 # 🫪
   
 **I'm Amazing Person**  
-**I like Python**  
+**I like Python, Lua, Mojo, Rust**  
 **I like Linux**  
 **I started vibe coding since GPT-3.5**
 
