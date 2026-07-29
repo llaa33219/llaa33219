@@ -9,7 +9,7 @@
 [🔗 bloupla.net](https://bloupla.net)
 
 ## 👀 What's on my radar
- - https://furiosa.ai/
+ - https://github.com/lukaslaobeyer/token-opt
  - https://motiftech.io/
  - https://huggingface.co/bottlecapai
  - https://huggingface.co/datasets/LiquidAI/antidoom-mix-v1.0
