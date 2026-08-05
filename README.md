@@ -12,6 +12,6 @@
  - https://github.com/lukaslaobeyer/token-opt
  - https://motiftech.io/
  - https://huggingface.co/bottlecapai
- - https://huggingface.co/datasets/LiquidAI/antidoom-mix-v1.0
+ - https://huggingface.co/harrrshall/BarunLM-35M
  - https://huggingface.co/Glint-Research
  - https://huggingface.co/SupraLabs
