@@ -13,5 +13,5 @@
  - https://motiftech.io/
  - https://huggingface.co/bottlecapai
  - https://huggingface.co/harrrshall/BarunLM-35M
- - https://huggingface.co/Glint-Research
+ - https://huggingface.co/Gazingstars123/Anima-2.9B
  - https://huggingface.co/SupraLabs
