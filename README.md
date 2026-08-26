@@ -21,4 +21,4 @@
  - https://huggingface.co/bottlecapai
  - https://huggingface.co/harrrshall/BarunLM-35M
  - https://huggingface.co/Gazingstars123/Anima-2.9B
- - https://huggingface.co/SupraLabs
+ - https://huggingface.co/lylogummy/Anima-3.8B
