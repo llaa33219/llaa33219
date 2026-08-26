@@ -19,6 +19,6 @@
  - https://github.com/lukaslaobeyer/token-opt
  - https://motiftech.io/
  - https://huggingface.co/bottlecapai
- - https://huggingface.co/harrrshall/BarunLM-35M
+ - https://huggingface.co/Qwen/Qwen3.8-Flash-Next
  - https://huggingface.co/Gazingstars123/Anima-2.9B
  - https://huggingface.co/lylogummy/Anima-3.8B
