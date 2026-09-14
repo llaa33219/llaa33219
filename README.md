@@ -12,6 +12,11 @@
 **I like Linux**  
 **I started vibe coding since GPT-3.5**
 
+||CUTE|FAST|
+|---|---|---|
+|KAWAII|Python|Lua|
+|SPEED|Mojo|Rust|
+
 ## 🌐 Site  
 [🔗 bloupla.net](https://bloupla.net)
 
