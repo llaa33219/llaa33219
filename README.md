@@ -14,8 +14,8 @@
 
 ||CUTE|FAST|
 |---|---|---|
-|KAWAII|Python|Lua|
-|SPEED|Mojo|Rust|
+|**KAWAII**|Python|Lua|
+|**SPEED**|Mojo|Rust|
 
 ## 🌐 Site  
 [🔗 bloupla.net](https://bloupla.net)
