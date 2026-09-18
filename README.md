@@ -21,7 +21,7 @@
 [🔗 bloupla.net](https://bloupla.net)
 
 ## 👀 What's on my radar
- - https://github.com/lukaslaobeyer/token-opt
+ - https://huggingface.co/internlm/Atria-Dawn-Preview
  - https://motiftech.io/
  - https://huggingface.co/zai-org/GLM-5.3-Flash
  - https://huggingface.co/Qwen/Qwen3.8-Flash-Next
