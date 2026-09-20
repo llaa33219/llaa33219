@@ -22,7 +22,7 @@
 
 ## 👀 What's on my radar
  - https://huggingface.co/internlm/Atria-Dawn-Preview
- - https://motiftech.io/
+ - https://huggingface.co/convaiinnovations/laya
  - https://huggingface.co/zai-org/GLM-5.3-Flash
  - https://huggingface.co/Qwen/Qwen3.8-Flash-Next
  - https://huggingface.co/Gazingstars123/Anima-2.9B
