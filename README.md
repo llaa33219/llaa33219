@@ -25,5 +25,5 @@
  - https://huggingface.co/convaiinnovations/laya
  - https://huggingface.co/Cactus-Compute/needle3
  - https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash
- - https://huggingface.co/Gazingstars123/Anima-2.9B
+ - https://huggingface.co/datasets/ZefanCai/Open-Jev
  - https://huggingface.co/AlexWortega/openjev
