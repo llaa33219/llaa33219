@@ -2,11 +2,12 @@
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
-      <h2>I'm an AI-Native Polymath.</h2>
+      <h2>Tiny models change the world.</h2>
     </summary>
   </ul>
 </div>
 
+**I'm an AI-Native Polymath.**
 **I'm Amazing Person**  
 **I like Python, Lua, Mojo, Rust**  
 **I like Linux**  
