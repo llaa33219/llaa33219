@@ -23,7 +23,7 @@
 
 ## 👀 What's on my radar
  - https://huggingface.co/datasets/ZefanCai/Open-Jev-v1.1
- - https://huggingface.co/convaiinnovations/laya
+ - https://huggingface.co/autotrust/GEV-26B-Decide-NVFP4
  - https://huggingface.co/datasets/SargeDev/jev-distill-corpus-v3
  - https://huggingface.co/datasets/tasksource/tasksource-jev-typed-decisions
  - https://huggingface.co/datasets/ZefanCai/Open-Jev
