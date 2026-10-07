@@ -2,7 +2,7 @@
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
-      <h2>Tiny models change the world.</h2>
+      <h1>Tiny models change the world.</h1>
     </summary>
   </ul>
 </div>
