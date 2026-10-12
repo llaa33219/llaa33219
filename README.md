@@ -7,7 +7,7 @@
   </ul>
 </div>
 
-**I'm an AI-Native Polymath.**
+**I'm an AI-Native Polymath.**  
 **I'm Amazing Person**  
 **I like Python, Lua, Mojo, Rust**  
 **I like Linux**  
