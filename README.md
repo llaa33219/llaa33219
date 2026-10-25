@@ -24,7 +24,7 @@
 ## 👀 What's on my radar
  - https://huggingface.co/LiquidAI/d1-omni-600M
  - https://huggingface.co/autotrust/GEV-26B-Decide-NVFP4
- - https://huggingface.co/datasets/SargeDev/jev-distill-corpus-v3
+ - https://huggingface.co/KRAFTON
  - https://huggingface.co/raincandy-u/MacroStories
  - https://huggingface.co/LiquidAI/d1-3B
  - https://huggingface.co/LiquidAI/d1-3B-w8a8
