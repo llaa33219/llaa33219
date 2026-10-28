@@ -26,5 +26,5 @@
  - https://huggingface.co/autotrust/GEV-26B-Decide-NVFP4
  - https://huggingface.co/KRAFTON
  - https://huggingface.co/raincandy-u/MacroStories
- - https://huggingface.co/LiquidAI/d1-3B
+ - https://huggingface.co/tencent/Hy-Nomas
  - https://huggingface.co/LiquidAI/d1-3B-w8a8
