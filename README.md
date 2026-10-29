@@ -27,4 +27,4 @@
  - https://huggingface.co/KRAFTON
  - https://huggingface.co/raincandy-u/MacroStories
  - https://huggingface.co/tencent/Hy-Nomas
- - https://huggingface.co/LiquidAI/d1-3B-w8a8
+ - https://huggingface.co/LiquidAI/LFM3-Omni-2B
