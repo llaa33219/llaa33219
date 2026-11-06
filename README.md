@@ -22,7 +22,7 @@
 [🔗 bloupla.net](https://bloupla.net)
 
 ## 👀 What's on my radar
- - https://huggingface.co/LiquidAI/d1-omni-600M
+ - https://huggingface.co/burner22/numbat
  - https://huggingface.co/ElectronGirl/anima-ref-adapter
  - https://huggingface.co/KRAFTON
  - https://huggingface.co/raincandy-u/MacroStories
