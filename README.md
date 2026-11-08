@@ -26,5 +26,5 @@
  - https://huggingface.co/ElectronGirl/anima-ref-adapter
  - https://huggingface.co/KRAFTON
  - https://huggingface.co/raincandy-u/MacroStories
- - https://huggingface.co/tencent/Hy-Nomas
+ - https://huggingface.co/datasets/HuggingFaceBio/FineDNA
  - https://huggingface.co/LiquidAI/LFM3-Omni-2B
